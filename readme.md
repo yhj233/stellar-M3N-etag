@@ -1,5 +1,7 @@
 <h1 align="center">hanshow stellar L3N 电子价签/airtag固件</h1>
 
+对stellar-L3N-etag进行了修改 适用于很早期的M3N (局部刷新异常不走时，识别为213ICE)
+
 ### 适用型号 L3N@ (注意：只适配了L3N@ 2.9寸设备，原项目的其他型号可能已经不再兼容)
 
 ### 最终效果
